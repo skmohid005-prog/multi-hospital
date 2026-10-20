@@ -1,0 +1,6 @@
+{
+  "name": "Madala Multi-Speciality Hospital",
+  "description": "Leading 24/7 multi-speciality hospital in Pogathota, Nellore. Specializing in advanced laparoscopic surgery, endoscopy, gastroenterology, eye care, and emergency medicine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
